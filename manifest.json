@@ -1,7 +1,7 @@
 {
   "name": "FriendlyEats",
   "short_name": "FriendlyEats",
-  "start_url": "/",
+  "start_url": "/index.html",
   "display": "standalone",
   "orientation": "portrait",
   "icons": [{
